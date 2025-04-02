@@ -1,0 +1,15 @@
+body{background-color: aliceblue;}
+button{background-color: violet;}
+button{text-decoration-color: black;}
+button{width: 150;}
+.one{width: 150px;height: 150px; background-color: rgb(202, 127, 255);}
+.one1{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size:50px;text-align: center;}
+.two2{font-family: Impact, Haettenschweiler,'Arial Narrow Bold', sans-serif;font-size:10px;text-align: end;}
+.twoo{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size:200px;text-align: center;}
+.pipa{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size:200px;text-align: center;}
+.popa{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 200px; text-align: left;}
+.pipa{width: 150px;height: 100px; background-color: rgb(174, 127, 255);align-items: center;}
+.pf{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size:30px;text-align: unset;}
+.one1{display: inline}
+.popa{display: flex;justify-content: space-around; }
+.mom{display: block;}
